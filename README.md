@@ -1,2 +1,2 @@
 # TestRepo
-This is a test repository on github. Modifies in master.
+This is a test repository on github. Modified in master.
